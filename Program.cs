@@ -5,7 +5,7 @@
         static void Main(/*string[] args*/)
         {
             bool gameOver = false;
-            // string randword = StringImport.SomeMethod()
+            string randomWord = StringImport.GetRandomString();
 
             while (!gameOver)
             {
